@@ -43,18 +43,23 @@ Data/superstore_data.csv
 
 ## Folder Structure
 
-Retail-Sales-DA-Project/
+<pre>
+
+Retail-Sales-Analysis-DA-Project/
 │
-├── Data/
+├── data/
 │   └── superstore_data.csv
 │
-├── Images/
-│   └── (optional: export graphs if needed)
+├── notebooks/
+│   └── analysis.ipynb
 │
-├── Notebooks/
-│   └── Retail_Sales_EDA.ipynb
+├── images/
+│   └── dashboard.png
 │
-└── README.md 
+├── README.md
+└── requirements.txt
+
+</pre>
 
 ---
 
