@@ -50,13 +50,13 @@ Retail-Sales-Analysis-DA-Project/
 │   └── superstore_data.csv
 │
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── Retail_Sales_EDA.ipynb
 │
 ├── images/
 │   └── dashboard images (.jpg)
 │
-├── README.md
-└── requirements.txt
+└── README.md
+
 </pre>
 
 ---
