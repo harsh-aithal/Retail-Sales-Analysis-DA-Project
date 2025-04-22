@@ -53,7 +53,7 @@ Retail-Sales-Analysis-DA-Project/
 │   └── analysis.ipynb
 │
 ├── images/
-│   └── dashboard.png
+│   └── dashboard images (.jpg)
 │
 ├── README.md
 └── requirements.txt
