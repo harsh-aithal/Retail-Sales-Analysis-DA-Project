@@ -44,7 +44,6 @@ Data/superstore_data.csv
 ## Folder Structure
 
 <pre>
-
 Retail-Sales-Analysis-DA-Project/
 │
 ├── data/
@@ -58,7 +57,6 @@ Retail-Sales-Analysis-DA-Project/
 │
 ├── README.md
 └── requirements.txt
-
 </pre>
 
 ---
